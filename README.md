@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAlper35&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   
 
-<img align="right" src="https://profile-counter.glitch.me/DevAlper35/count.svg?"  />
+
 
 
 <div align="center">
@@ -41,6 +41,8 @@
   <a href="https://www.instagram.com/mudurlu/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="50" alt="instagram logo"  />
   </a>
+
+  <img align="right" src="https://profile-counter.glitch.me/DevAlper35/count.svg?"  />
 </div>
 
 ###
