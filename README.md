@@ -30,10 +30,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   </div>
   <hr>
-  
+
+  <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAlper35&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlper35&layout=compact&langs_count=8&theme=dracula"/>
+  -->
   <hr>
 
 
@@ -55,17 +57,3 @@
 
 ###
 
-<!--
-**DevAlper35/DevAlper35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
