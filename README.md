@@ -1,4 +1,6 @@
-
+<div align=center>
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&center=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer;I'm+an+Fronend+Developer;I'm+an+Backend+Developer;I'm+an+Fullstack+Developer" alt="Headline" />
+</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAlper35&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
