@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevAlper35&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudurlu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
  <hr>
   
   <div>
@@ -32,16 +32,16 @@
   <hr>
 
    <!--
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAlper35&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mudurlu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   
  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlper35&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudurlu&layout=compact&langs_count=8&theme=dracula"/>
   -->
-  <a href="https://github.com/DevAlper35">
+  <a href="https://github.com/mudurlu">
       <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlper35&theme=radical&layout=compact"/>
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlper35" />
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevAlper35&theme=radical&layout=compact" alt="TopLangs"/>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mudurlu&theme=radical&layout=compact"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mudurlu" />
+      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudurlu&theme=radical&layout=compact" alt="TopLangs"/>
       </picture>
     </a>
  
@@ -61,7 +61,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="200" height="50" alt="instagram logo"  />
   </a>
 <hr>
-  <img align="right" src="https://profile-counter.glitch.me/DevAlper35/count.svg?"  />
+  <img align="right" src="https://profile-counter.glitch.me/mudurlu/count.svg?"  />
 </div>
 
 ###
